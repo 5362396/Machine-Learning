@@ -11,5 +11,7 @@ plotly==6.0.0
 scikit-learn==1.6.1
 seaborn==0.13.2
 shap==0.47.2
+torch==2.7.1
+torchvision==0.22.1
 xgboost==2.1.4
 yellowbrick==1.5
